@@ -6,23 +6,32 @@
       "manipulators": [
         {
           "from": {
-            "key_code": "left_gui",
+            "simultaneous": [
+              {
+                "key_code": "left_gui"
+              },
+              {
+                "key_code": "left_shift"
+              }
+            ],
             "modifiers": {
               "mandatory": [
-                "left_shift",
                 "4"
-              ],
-              "optional": [
-                "any"
               ]
             }
           },
           "to": [
             {
-              "key_code": "left_gui",
+              "simultaneous": [
+                {
+                  "key_code": "left_gui"
+                },
+                {
+                  "key_code": "left_shift"
+                }
+              ],
               "modifiers": {
                 "mandatory": [
-                  "left_shift",
                   "5"
                 ]
               }
