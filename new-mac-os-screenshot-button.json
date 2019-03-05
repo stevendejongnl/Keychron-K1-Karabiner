@@ -18,17 +18,19 @@
               }
             ]
           },
-          "to": [
-            {
-              "key_code": "left_gui"
-            },
-            {
-              "key_code": "left_shift"
-            },
-            {
-              "key_code": "5"
-            }
-          ],
+          "to": {
+            "simultaneous": [
+              {
+                "key_code": "left_gui"
+              },
+              {
+                "key_code": "left_shift"
+              },
+              {
+                "key_code": "5"
+              }
+            ]
+          },
           "type": "basic"
         }
       ]
