@@ -1,0 +1,1 @@
+[New mac os Screenshot button](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/stevendejongnl/Keychron-K1-Karabiner/master/new-mac-os-screenshot-button.json)
