@@ -22,16 +22,10 @@
           },
           "to": [
             {
-              "simultaneous": [
-                {
-                  "key_code": "left_gui"
-                },
-                {
-                  "key_code": "left_shift"
-                }
-              ],
               "modifiers": {
                 "mandatory": [
+                  "left_gui",
+                  "left_shift",
                   "5"
                 ]
               }
