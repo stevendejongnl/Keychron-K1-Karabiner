@@ -11,9 +11,6 @@
               "mandatory": [
                 "left_shift",
                 "4"
-              ],
-              "optional": [
-                "any"
               ]
             }
           },
@@ -24,9 +21,6 @@
                 "mandatory": [
                   "left_shift",
                   "5"
-                ],
-                "optional": [
-                  "any"
                 ]
               }
             }
