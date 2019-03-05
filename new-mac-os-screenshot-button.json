@@ -12,23 +12,21 @@
               },
               {
                 "key_code": "left_shift"
+              },
+              {
+                "key_code": "4"
               }
-            ],
-            "modifiers": {
-              "mandatory": [
-                "4"
-              ]
-            }
+            ]
           },
           "to": [
             {
-              "modifiers": {
-                "mandatory": [
-                  "left_gui",
-                  "left_shift",
-                  "5"
-                ]
-              }
+              "key_code": "left_gui"
+            },
+            {
+              "key_code": "left_shift"
+            },
+            {
+              "key_code": "5"
             }
           ],
           "type": "basic"
