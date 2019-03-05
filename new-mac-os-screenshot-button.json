@@ -5,15 +5,15 @@
       "description": "Keychron K1 : Change Screenshot (left_gui+left_shift+4) to new screenshot.",
       "manipulators": [
         {
-        "type": "basic",
           "from": {
             "key_code": "left_gui",
             "modifiers": {
               "mandatory": [
-                "left_shift"
+                "left_shift",
+                "4"
               ],
               "optional": [
-                "4"
+                "any"
               ]
             }
           },
@@ -27,7 +27,8 @@
                 ]
               }
             }
-          ]
+          ],
+          "type": "basic"
         }
       ]
     }
